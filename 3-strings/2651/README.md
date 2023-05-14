@@ -1,5 +1,5 @@
 [Link do problema](https://www.beecrowd.com.br/judge/problems/view/2651)
-# <center>Link Bolado</center>
+# Link Bolado
 Link é um herói famoso e por isso recebe diversas cartas de seus fãs. Porém mesmo sendo famoso, todos continuam o chamando de Zelda.
 
 Por causa disso Link está muito bolado, tão bolado que sempre que recebe uma carta ele confere como o seu fã se referiu a ele na carta, e caso ele perceba o trecho "zelda" no nome ele fica bolado e joga a carta fora.

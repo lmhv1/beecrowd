@@ -1,5 +1,5 @@
 [Link do problema](https://www.beecrowd.com.br/judge/problems/view/1161)
-# <center>Soma de Fatoriais</center>
+# Soma de Fatoriais
 Leia dois valores inteiros M e N indefinidamente. A cada leitura, calcule e escreva a soma dos fatoriais de cada um dos valores lidos. Utilize uma variável apropriada, pois cálculo pode resultar em um valor com mais de 15 dígitos.
 
 #### Entrada

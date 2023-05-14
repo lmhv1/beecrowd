@@ -1,5 +1,5 @@
 [Link do problema](https://www.beecrowd.com.br/judge/problems/view/3126)
-# <center>Lista de Treinamento</center>
+# Lista de Treinamento
 A SAP está promovendo em sua sede um evento para treinar candidatos para entrevistas, sendo este ministrado pelo ilustre chefe Pietro e realizado em parceria com algumas universidades no país. Para isso, foi criado um formulário onde os interessados preencheriam alguns dados básicos como:
 
 - Nome completo;
